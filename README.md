@@ -15,3 +15,5 @@ npm run serve
 then go to localhost:8080 on your browser
 
 ![habiticaparser](./public/habiticaparser.png)
+
+Any help or contribution is appreciated !
