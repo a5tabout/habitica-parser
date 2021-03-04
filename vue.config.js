@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: 'habitica-parser'
+    publicPath: '/habitica-parser/'
 }
